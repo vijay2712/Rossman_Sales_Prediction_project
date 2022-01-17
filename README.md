@@ -1,5 +1,7 @@
 <h1>Rossman_Sales_Prediction</h1>
 
+<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/timser.gif" alt="W3Schools.com">
+
 
 
 Rossmann is a European drug distributor which operates over 3,000 drug stores across seven European countries. Since a lot of drugs come with a short shelf life, that is, they do not have a long expiry date, it becomes imperative for Rossmann to accurately forecast sales at their individual stores. Currently, the forecasting is taken care of by the store managers who are tasked with forecasting daily sales for the next six weeks. 
